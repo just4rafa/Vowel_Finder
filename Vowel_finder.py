@@ -22,7 +22,7 @@ for cuv in exe:
         print("I found the vowel", cuv)
         nrVocale += 1
     else:
-        print("The letter is not a vowel")
+        print("The word/sentence is not containing a vowel")
 
 print("The total number of vowels is", nrVocale)
     
